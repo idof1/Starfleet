@@ -29,6 +29,11 @@ src/starfleet/
 │── StarfleetManagerTester.java
 ```
 
+## UML Diagram
+Below is the system's UML diagram illustrating class relationships:
+
+![UML Diagram](project.svg)
+
 ## Installation & Compilation
 ### 1. Clone the repository
 ```bash
