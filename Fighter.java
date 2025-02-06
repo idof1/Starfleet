@@ -1,4 +1,4 @@
-package il.ac.tau.cs.sw1.ex9.starfleet;
+package starfleet;
 
 import java.util.List;
 import java.util.Set;
